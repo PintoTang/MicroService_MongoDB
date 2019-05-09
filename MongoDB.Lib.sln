@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoDB.Lib", "MongoDB.Lib\MongoDB.Lib.csproj", "{5E0B0577-35C5-43DE-833F-7420A5187C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0B0577-35C5-43DE-833F-7420A5187C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0B0577-35C5-43DE-833F-7420A5187C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0B0577-35C5-43DE-833F-7420A5187C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0B0577-35C5-43DE-833F-7420A5187C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F2E183-D0DB-4B54-A28D-3B3A9B15B45A}
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
